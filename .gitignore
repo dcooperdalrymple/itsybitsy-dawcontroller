@@ -1,0 +1,5 @@
+# Binary Files
+*.bin
+*.eep
+*.elf
+*.hex
